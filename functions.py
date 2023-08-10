@@ -1,6 +1,6 @@
 from pywinauto import Application as app
+import pydirectinput as pdi # pip install pydirectinput-rgx
 import pydirectinput as pdi
-#pip install pydirectinput-rgx
 from time import sleep
 import datetime
 
