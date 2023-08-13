@@ -3,7 +3,7 @@ import pydirectinput as pdi # pip install pydirectinput-rgx
 import pydirectinput as pdi
 from time import sleep
 import datetime
-
+#
 
 # Building the functions
 def detectingWindow(maximize_window=True):
